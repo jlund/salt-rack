@@ -1,5 +1,5 @@
 imgur_display_location:  "/var/www/imgur-display"
 passenger_max_pool_size: "4"
 passenger_max_requests:  "2000"
-passenger_version:       "4.0.5"
+passenger_version:       "4.0.7"
 ruby_location:           "/opt/ruby-1.9.3-p385-falcon-gc"
